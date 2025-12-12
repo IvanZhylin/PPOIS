@@ -1,0 +1,5 @@
+if(EXISTS "/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/test_tictactoe[1]_tests.cmake")
+  include("/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/test_tictactoe[1]_tests.cmake")
+else()
+  add_test(test_tictactoe_NOT_BUILT test_tictactoe_NOT_BUILT)
+endif()

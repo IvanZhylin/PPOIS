@@ -1,0 +1,9 @@
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/TicTacToe.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/test_tictactoe.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/coverage.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/test-coverage.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/test-coverage-detailed.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/doc.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/test.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/edit_cache.dir
+/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/build/CMakeFiles/rebuild_cache.dir

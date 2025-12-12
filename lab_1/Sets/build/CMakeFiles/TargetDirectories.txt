@@ -1,0 +1,7 @@
+/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/CMakeFiles/Sets.dir
+/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/CMakeFiles/test_sets.dir
+/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/CMakeFiles/coverage.dir
+/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/CMakeFiles/doc.dir
+/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/CMakeFiles/test.dir
+/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/CMakeFiles/edit_cache.dir
+/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/CMakeFiles/rebuild_cache.dir

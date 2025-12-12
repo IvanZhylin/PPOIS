@@ -1,0 +1,347 @@
+{
+  "tests": 61,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "GameBoardTest",
+      "tests": 14,
+      "testsuite": [
+        {
+          "name": "InitializeBoard",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 103
+        },
+        {
+          "name": "InitializeLargeBoard",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 110
+        },
+        {
+          "name": "IsValidMoveEmpty",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 116
+        },
+        {
+          "name": "IsValidMoveOutOfBounds",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 123
+        },
+        {
+          "name": "IsValidMoveOccupied",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 132
+        },
+        {
+          "name": "MakeMoveValid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 138
+        },
+        {
+          "name": "MakeMoveInvalid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 144
+        },
+        {
+          "name": "MakeMoveOutOfBounds",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 151
+        },
+        {
+          "name": "IsFullEmpty",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 157
+        },
+        {
+          "name": "IsFullPartial",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 162
+        },
+        {
+          "name": "IsFullComplete",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 169
+        },
+        {
+          "name": "GetPlayerSymbol",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 179
+        },
+        {
+          "name": "GetCellValid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 185
+        },
+        {
+          "name": "GetCellInvalid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 191
+        }
+      ]
+    },
+    {
+      "name": "StandardGameLogicTest",
+      "tests": 9,
+      "testsuite": [
+        {
+          "name": "GetWinCondition",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 214
+        },
+        {
+          "name": "CheckWinHorizontal",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 218
+        },
+        {
+          "name": "CheckWinVertical",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 225
+        },
+        {
+          "name": "CheckWinDiagonalTopLeftBottomRight",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 232
+        },
+        {
+          "name": "CheckWinDiagonalTopRightBottomLeft",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 239
+        },
+        {
+          "name": "CheckWinNoWin",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 246
+        },
+        {
+          "name": "CheckWinMixedPlayers",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 253
+        },
+        {
+          "name": "CheckWinLargerBoard",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 260
+        },
+        {
+          "name": "CheckWinMiddleOfLine",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 270
+        }
+      ]
+    },
+    {
+      "name": "ConsoleInputHandlerTest",
+      "tests": 18,
+      "testsuite": [
+        {
+          "name": "GetBoardSizeValid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 313
+        },
+        {
+          "name": "GetBoardSizeLarge",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 319
+        },
+        {
+          "name": "GetBoardSizeInvalidThenValid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 325
+        },
+        {
+          "name": "GetBoardSizeNonNumericThenValid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 331
+        },
+        {
+          "name": "GetBoardSizeZeroThenValid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 337
+        },
+        {
+          "name": "GetPlayerMoveValid",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 343
+        },
+        {
+          "name": "GetPlayerMoveValidDifferentPosition",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 352
+        },
+        {
+          "name": "GetPlayerMoveInvalidFormat",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 361
+        },
+        {
+          "name": "GetPlayerMoveInvalidFormatSingleNumber",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 368
+        },
+        {
+          "name": "GetPlayerMoveInvalidFormatTooMany",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 375
+        },
+        {
+          "name": "GetPlayerMoveOutOfBounds",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 382
+        },
+        {
+          "name": "GetPlayerMoveNegativeCoordinates",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 389
+        },
+        {
+          "name": "GetPlayerMoveOccupiedCell",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 396
+        },
+        {
+          "name": "GetPlayerMoveEdgeOfBoard",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 404
+        },
+        {
+          "name": "GetPlayerMoveZeroCoordinates",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 413
+        },
+        {
+          "name": "GetPlayerMoveWithSpaces",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 420
+        },
+        {
+          "name": "GetPlayerMoveEmptyInput",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 427
+        },
+        {
+          "name": "GetPlayerMoveLargeBoard",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 434
+        }
+      ]
+    },
+    {
+      "name": "ConsoleOutputHandlerTest",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "DisplayBoard",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 481
+        },
+        {
+          "name": "DisplayBoardWithMoves",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 489
+        },
+        {
+          "name": "DisplayWelcome",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 498
+        },
+        {
+          "name": "DisplayWinner",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 504
+        },
+        {
+          "name": "DisplayDraw",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 511
+        },
+        {
+          "name": "DisplayError",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 517
+        },
+        {
+          "name": "DisplayCurrentPlayer",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 524
+        }
+      ]
+    },
+    {
+      "name": "GameTest",
+      "tests": 10,
+      "testsuite": [
+        {
+          "name": "GameConstructor",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 561
+        },
+        {
+          "name": "GameWinScenarioPlayerX",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 565
+        },
+        {
+          "name": "GameWinScenarioPlayerO",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 580
+        },
+        {
+          "name": "GameDrawScenario",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 595
+        },
+        {
+          "name": "GameDiagonalWinTopLeftBottomRight",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 613
+        },
+        {
+          "name": "GameDiagonalWinTopRightBottomLeft",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 627
+        },
+        {
+          "name": "GameHandlesInvalidMoveGracefully",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 645
+        },
+        {
+          "name": "GameEndsAfterWin",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 658
+        },
+        {
+          "name": "GameVerticalWin",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 672
+        },
+        {
+          "name": "GameHorizontalWin",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 685
+        }
+      ]
+    },
+    {
+      "name": "EdgeCaseTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "MinimumBoardSize",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 703
+        },
+        {
+          "name": "LargeBoardSize",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 709
+        },
+        {
+          "name": "WinOnLastMove",
+          "file": "\/home\/jetstreamvan\/git\/PPOIS\/lab_1\/TicTacToe\/tests\/test_tictactoe.cpp",
+          "line": 716
+        }
+      ]
+    }
+  ]
+}

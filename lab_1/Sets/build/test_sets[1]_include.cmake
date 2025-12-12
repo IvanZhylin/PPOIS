@@ -1,0 +1,5 @@
+if(EXISTS "/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/test_sets[1]_tests.cmake")
+  include("/home/jetstreamvan/git/PPOIS/lab_1/Sets/build/test_sets[1]_tests.cmake")
+else()
+  add_test(test_sets_NOT_BUILT test_sets_NOT_BUILT)
+endif()
