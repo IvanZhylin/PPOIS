@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jetstreamvan/git/PPOIS_orig/lab_2/build/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
