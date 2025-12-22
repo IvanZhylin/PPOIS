@@ -14,7 +14,7 @@
  */
 
 class Set;
-/// Умный указатель на объект Set
+
 using SetPtr = std::shared_ptr<Set>;
 
 /**

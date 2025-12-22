@@ -1,1 +1,1 @@
-/usr/lib/ccache/bin/c++ -g --coverage -Wl,--dependency-file=CMakeFiles/Sets.dir/link.d CMakeFiles/Sets.dir/src/main.cpp.o CMakeFiles/Sets.dir/src/Set.cpp.o -o bin/Sets
+/usr/lib/ccache/bin/c++ --coverage -Wl,--dependency-file=CMakeFiles/Sets.dir/link.d CMakeFiles/Sets.dir/src/main.cpp.o CMakeFiles/Sets.dir/src/Set.cpp.o -o bin/Sets

@@ -1,1 +1,1 @@
-/usr/lib/ccache/bin/c++ -g --coverage -Wl,--dependency-file=CMakeFiles/test_sets.dir/link.d CMakeFiles/test_sets.dir/tests/test.cpp.o CMakeFiles/test_sets.dir/src/Set.cpp.o -o bin/test_sets  -lpthread /usr/lib/libgtest_main.so.1.17.0 /usr/lib/libgtest.so.1.17.0
+/usr/lib/ccache/bin/c++ --coverage -Wl,--dependency-file=CMakeFiles/test_sets.dir/link.d CMakeFiles/test_sets.dir/tests/test.cpp.o CMakeFiles/test_sets.dir/src/Set.cpp.o -o bin/test_sets  -lpthread /usr/lib/libgtest_main.so.1.17.0 /usr/lib/libgtest.so.1.17.0

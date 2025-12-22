@@ -6,5 +6,5 @@ CXX_DEFINES = -DGTEST_LINKED_AS_SHARED_LIBRARY=1
 
 CXX_INCLUDES = -I/home/jetstreamvan/git/PPOIS/lab_1/TicTacToe/include
 
-CXX_FLAGS = -g -std=c++17 --coverage -fprofile-arcs -ftest-coverage
+CXX_FLAGS = -std=c++17 --coverage -fprofile-arcs -ftest-coverage
 
