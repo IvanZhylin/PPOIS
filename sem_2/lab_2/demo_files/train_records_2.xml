@@ -1,0 +1,353 @@
+<?xml version="1.0" ?>
+<train_records>
+  <record>
+    <train_number>3200</train_number>
+    <departure_station>Брест</departure_station>
+    <arrival_station>Гомель</arrival_station>
+    <departure_at>2026-05-01 06:39</departure_at>
+    <arrival_at>2026-05-01 14:49</arrival_at>
+  </record>
+  <record>
+    <train_number>3201</train_number>
+    <departure_station>Лида</departure_station>
+    <arrival_station>Гродно</arrival_station>
+    <departure_at>2026-05-01 11:41</departure_at>
+    <arrival_at>2026-05-01 17:41</arrival_at>
+  </record>
+  <record>
+    <train_number>3202</train_number>
+    <departure_station>Витебск</departure_station>
+    <arrival_station>Могилев</arrival_station>
+    <departure_at>2026-05-01 12:20</departure_at>
+    <arrival_at>2026-05-01 16:00</arrival_at>
+  </record>
+  <record>
+    <train_number>3203</train_number>
+    <departure_station>Пинск</departure_station>
+    <arrival_station>Полоцк</arrival_station>
+    <departure_at>2026-05-01 17:56</departure_at>
+    <arrival_at>2026-05-01 19:36</arrival_at>
+  </record>
+  <record>
+    <train_number>3204</train_number>
+    <departure_station>Минск</departure_station>
+    <arrival_station>Пинск</arrival_station>
+    <departure_at>2026-05-01 19:19</departure_at>
+    <arrival_at>2026-05-02 02:29</arrival_at>
+  </record>
+  <record>
+    <train_number>3205</train_number>
+    <departure_station>Брест</departure_station>
+    <arrival_station>Гродно</arrival_station>
+    <departure_at>2026-05-01 23:33</departure_at>
+    <arrival_at>2026-05-02 01:23</arrival_at>
+  </record>
+  <record>
+    <train_number>3206</train_number>
+    <departure_station>Могилев</departure_station>
+    <arrival_station>Пинск</arrival_station>
+    <departure_at>2026-05-02 01:16</departure_at>
+    <arrival_at>2026-05-02 04:46</arrival_at>
+  </record>
+  <record>
+    <train_number>3207</train_number>
+    <departure_station>Гомель</departure_station>
+    <arrival_station>Лида</arrival_station>
+    <departure_at>2026-05-02 05:09</departure_at>
+    <arrival_at>2026-05-02 10:29</arrival_at>
+  </record>
+  <record>
+    <train_number>3208</train_number>
+    <departure_station>Пинск</departure_station>
+    <arrival_station>Брест</arrival_station>
+    <departure_at>2026-05-02 07:03</departure_at>
+    <arrival_at>2026-05-02 13:43</arrival_at>
+  </record>
+  <record>
+    <train_number>3209</train_number>
+    <departure_station>Минск</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-02 10:32</departure_at>
+    <arrival_at>2026-05-02 16:12</arrival_at>
+  </record>
+  <record>
+    <train_number>3210</train_number>
+    <departure_station>Полоцк</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-02 14:59</departure_at>
+    <arrival_at>2026-05-02 18:19</arrival_at>
+  </record>
+  <record>
+    <train_number>3211</train_number>
+    <departure_station>Барановичи</departure_station>
+    <arrival_station>Могилев</arrival_station>
+    <departure_at>2026-05-02 16:37</departure_at>
+    <arrival_at>2026-05-02 17:57</arrival_at>
+  </record>
+  <record>
+    <train_number>3212</train_number>
+    <departure_station>Барановичи</departure_station>
+    <arrival_station>Пинск</arrival_station>
+    <departure_at>2026-05-02 20:34</departure_at>
+    <arrival_at>2026-05-03 04:24</arrival_at>
+  </record>
+  <record>
+    <train_number>3213</train_number>
+    <departure_station>Орша</departure_station>
+    <arrival_station>Полоцк</arrival_station>
+    <departure_at>2026-05-02 21:05</departure_at>
+    <arrival_at>2026-05-03 05:25</arrival_at>
+  </record>
+  <record>
+    <train_number>3214</train_number>
+    <departure_station>Гродно</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-03 01:03</departure_at>
+    <arrival_at>2026-05-03 05:43</arrival_at>
+  </record>
+  <record>
+    <train_number>3215</train_number>
+    <departure_station>Витебск</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-03 03:06</departure_at>
+    <arrival_at>2026-05-03 11:16</arrival_at>
+  </record>
+  <record>
+    <train_number>3216</train_number>
+    <departure_station>Брест</departure_station>
+    <arrival_station>Минск</arrival_station>
+    <departure_at>2026-05-03 08:24</departure_at>
+    <arrival_at>2026-05-03 14:34</arrival_at>
+  </record>
+  <record>
+    <train_number>3217</train_number>
+    <departure_station>Могилев</departure_station>
+    <arrival_station>Полоцк</arrival_station>
+    <departure_at>2026-05-03 11:12</departure_at>
+    <arrival_at>2026-05-03 19:12</arrival_at>
+  </record>
+  <record>
+    <train_number>3218</train_number>
+    <departure_station>Гродно</departure_station>
+    <arrival_station>Барановичи</arrival_station>
+    <departure_at>2026-05-03 12:50</departure_at>
+    <arrival_at>2026-05-03 17:40</arrival_at>
+  </record>
+  <record>
+    <train_number>3219</train_number>
+    <departure_station>Лида</departure_station>
+    <arrival_station>Гродно</arrival_station>
+    <departure_at>2026-05-03 15:12</departure_at>
+    <arrival_at>2026-05-03 22:12</arrival_at>
+  </record>
+  <record>
+    <train_number>3220</train_number>
+    <departure_station>Брест</departure_station>
+    <arrival_station>Пинск</arrival_station>
+    <departure_at>2026-05-03 19:02</departure_at>
+    <arrival_at>2026-05-03 21:32</arrival_at>
+  </record>
+  <record>
+    <train_number>3221</train_number>
+    <departure_station>Лида</departure_station>
+    <arrival_station>Орша</arrival_station>
+    <departure_at>2026-05-03 21:37</departure_at>
+    <arrival_at>2026-05-04 03:27</arrival_at>
+  </record>
+  <record>
+    <train_number>3222</train_number>
+    <departure_station>Лида</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-04 01:46</departure_at>
+    <arrival_at>2026-05-04 04:36</arrival_at>
+  </record>
+  <record>
+    <train_number>3223</train_number>
+    <departure_station>Лида</departure_station>
+    <arrival_station>Могилев</arrival_station>
+    <departure_at>2026-05-04 03:52</departure_at>
+    <arrival_at>2026-05-04 08:52</arrival_at>
+  </record>
+  <record>
+    <train_number>3224</train_number>
+    <departure_station>Минск</departure_station>
+    <arrival_station>Витебск</arrival_station>
+    <departure_at>2026-05-04 08:22</departure_at>
+    <arrival_at>2026-05-04 10:42</arrival_at>
+  </record>
+  <record>
+    <train_number>3225</train_number>
+    <departure_station>Гродно</departure_station>
+    <arrival_station>Витебск</arrival_station>
+    <departure_at>2026-05-04 11:44</departure_at>
+    <arrival_at>2026-05-04 19:34</arrival_at>
+  </record>
+  <record>
+    <train_number>3226</train_number>
+    <departure_station>Гомель</departure_station>
+    <arrival_station>Брест</arrival_station>
+    <departure_at>2026-05-04 12:04</departure_at>
+    <arrival_at>2026-05-04 16:24</arrival_at>
+  </record>
+  <record>
+    <train_number>3227</train_number>
+    <departure_station>Пинск</departure_station>
+    <arrival_station>Гродно</arrival_station>
+    <departure_at>2026-05-04 15:34</departure_at>
+    <arrival_at>2026-05-04 21:04</arrival_at>
+  </record>
+  <record>
+    <train_number>3228</train_number>
+    <departure_station>Гродно</departure_station>
+    <arrival_station>Витебск</arrival_station>
+    <departure_at>2026-05-04 18:17</departure_at>
+    <arrival_at>2026-05-04 20:57</arrival_at>
+  </record>
+  <record>
+    <train_number>3229</train_number>
+    <departure_station>Бобруйск</departure_station>
+    <arrival_station>Пинск</arrival_station>
+    <departure_at>2026-05-04 21:25</departure_at>
+    <arrival_at>2026-05-05 03:25</arrival_at>
+  </record>
+  <record>
+    <train_number>3230</train_number>
+    <departure_station>Лида</departure_station>
+    <arrival_station>Орша</arrival_station>
+    <departure_at>2026-05-05 00:02</departure_at>
+    <arrival_at>2026-05-05 04:32</arrival_at>
+  </record>
+  <record>
+    <train_number>3231</train_number>
+    <departure_station>Барановичи</departure_station>
+    <arrival_station>Минск</arrival_station>
+    <departure_at>2026-05-05 03:13</departure_at>
+    <arrival_at>2026-05-05 12:03</arrival_at>
+  </record>
+  <record>
+    <train_number>3232</train_number>
+    <departure_station>Полоцк</departure_station>
+    <arrival_station>Минск</arrival_station>
+    <departure_at>2026-05-05 08:45</departure_at>
+    <arrival_at>2026-05-05 16:15</arrival_at>
+  </record>
+  <record>
+    <train_number>3233</train_number>
+    <departure_station>Гомель</departure_station>
+    <arrival_station>Витебск</arrival_station>
+    <departure_at>2026-05-05 09:07</departure_at>
+    <arrival_at>2026-05-05 14:07</arrival_at>
+  </record>
+  <record>
+    <train_number>3234</train_number>
+    <departure_station>Пинск</departure_station>
+    <arrival_station>Барановичи</arrival_station>
+    <departure_at>2026-05-05 12:11</departure_at>
+    <arrival_at>2026-05-05 18:11</arrival_at>
+  </record>
+  <record>
+    <train_number>3235</train_number>
+    <departure_station>Минск</departure_station>
+    <arrival_station>Орша</arrival_station>
+    <departure_at>2026-05-05 15:38</departure_at>
+    <arrival_at>2026-05-05 20:38</arrival_at>
+  </record>
+  <record>
+    <train_number>3236</train_number>
+    <departure_station>Бобруйск</departure_station>
+    <arrival_station>Минск</arrival_station>
+    <departure_at>2026-05-05 19:49</departure_at>
+    <arrival_at>2026-05-05 20:59</arrival_at>
+  </record>
+  <record>
+    <train_number>3237</train_number>
+    <departure_station>Пинск</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-05 23:14</departure_at>
+    <arrival_at>2026-05-06 07:54</arrival_at>
+  </record>
+  <record>
+    <train_number>3238</train_number>
+    <departure_station>Полоцк</departure_station>
+    <arrival_station>Брест</arrival_station>
+    <departure_at>2026-05-06 01:21</departure_at>
+    <arrival_at>2026-05-06 07:11</arrival_at>
+  </record>
+  <record>
+    <train_number>3239</train_number>
+    <departure_station>Минск</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-06 05:40</departure_at>
+    <arrival_at>2026-05-06 07:50</arrival_at>
+  </record>
+  <record>
+    <train_number>3240</train_number>
+    <departure_station>Барановичи</departure_station>
+    <arrival_station>Орша</arrival_station>
+    <departure_at>2026-05-06 08:23</departure_at>
+    <arrival_at>2026-05-06 14:03</arrival_at>
+  </record>
+  <record>
+    <train_number>3241</train_number>
+    <departure_station>Гомель</departure_station>
+    <arrival_station>Витебск</arrival_station>
+    <departure_at>2026-05-06 10:17</departure_at>
+    <arrival_at>2026-05-06 13:37</arrival_at>
+  </record>
+  <record>
+    <train_number>3242</train_number>
+    <departure_station>Орша</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-06 14:31</departure_at>
+    <arrival_at>2026-05-06 18:11</arrival_at>
+  </record>
+  <record>
+    <train_number>3243</train_number>
+    <departure_station>Витебск</departure_station>
+    <arrival_station>Орша</arrival_station>
+    <departure_at>2026-05-06 16:21</departure_at>
+    <arrival_at>2026-05-06 18:51</arrival_at>
+  </record>
+  <record>
+    <train_number>3244</train_number>
+    <departure_station>Пинск</departure_station>
+    <arrival_station>Лида</arrival_station>
+    <departure_at>2026-05-06 20:12</departure_at>
+    <arrival_at>2026-05-06 23:12</arrival_at>
+  </record>
+  <record>
+    <train_number>3245</train_number>
+    <departure_station>Минск</departure_station>
+    <arrival_station>Бобруйск</arrival_station>
+    <departure_at>2026-05-06 22:15</departure_at>
+    <arrival_at>2026-05-06 23:55</arrival_at>
+  </record>
+  <record>
+    <train_number>3246</train_number>
+    <departure_station>Орша</departure_station>
+    <arrival_station>Брест</arrival_station>
+    <departure_at>2026-05-07 00:35</departure_at>
+    <arrival_at>2026-05-07 07:15</arrival_at>
+  </record>
+  <record>
+    <train_number>3247</train_number>
+    <departure_station>Минск</departure_station>
+    <arrival_station>Барановичи</arrival_station>
+    <departure_at>2026-05-07 04:49</departure_at>
+    <arrival_at>2026-05-07 05:49</arrival_at>
+  </record>
+  <record>
+    <train_number>3248</train_number>
+    <departure_station>Орша</departure_station>
+    <arrival_station>Лида</arrival_station>
+    <departure_at>2026-05-07 06:51</departure_at>
+    <arrival_at>2026-05-07 08:51</arrival_at>
+  </record>
+  <record>
+    <train_number>3249</train_number>
+    <departure_station>Барановичи</departure_station>
+    <arrival_station>Гродно</arrival_station>
+    <departure_at>2026-05-07 09:16</departure_at>
+    <arrival_at>2026-05-07 14:36</arrival_at>
+  </record>
+</train_records>
