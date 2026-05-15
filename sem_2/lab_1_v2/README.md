@@ -36,6 +36,13 @@
 - **D (Dependency Inversion):**
   - `WeddingPlannerService` зависит от абстракции `PlanRepository`.
 
+
+## UML диаграмма классов
+![alt text](image.png)
+
+## UML диаграмма состояний 
+![alt text](image-1.png)
+
 ## Требования
 
 - Python 3.11+
