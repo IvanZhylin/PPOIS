@@ -1,4 +1,4 @@
-from train_app.app import run
+from src.app import run
 
 
 if __name__ == "__main__":

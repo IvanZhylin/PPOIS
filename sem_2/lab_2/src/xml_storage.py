@@ -4,8 +4,8 @@ from datetime import datetime
 from xml.dom import minidom
 from xml.sax import ContentHandler, parse
 
-from train_app.models import TrainRecord
-from train_app.protocols import IXmlStorage
+from src.models import TrainRecord
+from src.protocols import IXmlStorage
 
 DATETIME_FORMAT = "%Y-%m-%d %H:%M"
 

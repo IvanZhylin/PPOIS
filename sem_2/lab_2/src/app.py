@@ -3,11 +3,11 @@ from __future__ import annotations
 from pathlib import Path
 from tkinter import Tk
 
-from train_app.controller import MainController
-from train_app.repository import SqliteTrainRepository
-from train_app.services import TrainService
-from train_app.view import MainWindow
-from train_app.xml_storage import DomSaxXmlStorage
+from src.controller import MainController
+from src.repository import SqliteTrainRepository
+from src.services import TrainService
+from src.view import MainWindow
+from src.xml_storage import DomSaxXmlStorage
 
 
 def run() -> None:

@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from abc import ABC, abstractmethod
 
-from train_app.models import SearchCriteria, TrainRecord
+from src.models import SearchCriteria, TrainRecord
 
 
 class ITrainRepository(ABC):

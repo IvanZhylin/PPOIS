@@ -1,8 +1,8 @@
 from __future__ import annotations
 
-from train_app.models import Page, SearchCriteria, TrainRecord
-from train_app.protocols import ITrainRepository, IXmlStorage
-from train_app.repository import SqliteTrainRepository
+from src.models import Page, SearchCriteria, TrainRecord
+from src.protocols import ITrainRepository, IXmlStorage
+from src.repository import SqliteTrainRepository
 
 
 class TrainService:

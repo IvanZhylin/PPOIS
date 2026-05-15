@@ -3,8 +3,8 @@ from __future__ import annotations
 import sqlite3
 from datetime import datetime
 
-from train_app.models import SearchCriteria, TrainRecord
-from train_app.protocols import ITrainRepository
+from src.models import SearchCriteria, TrainRecord
+from src.protocols import ITrainRepository
 
 
 def _dt_to_str(value: datetime) -> str:

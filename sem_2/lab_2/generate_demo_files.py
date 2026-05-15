@@ -4,8 +4,8 @@ import random
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from train_app.models import TrainRecord
-from train_app.xml_storage import DomSaxXmlStorage
+from src.models import TrainRecord
+from src.xml_storage import DomSaxXmlStorage
 
 
 def generate_records(seed: int, count: int = 50) -> list[TrainRecord]:

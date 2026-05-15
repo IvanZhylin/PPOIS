@@ -2,8 +2,8 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from train_app.models import Page, SearchCriteria, TrainRecord
-from train_app.services import TrainService
+from src.models import Page, SearchCriteria, TrainRecord
+from src.services import TrainService
 
 
 @dataclass

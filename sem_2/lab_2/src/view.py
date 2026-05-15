@@ -5,8 +5,8 @@ from tkinter import BOTH, END, LEFT, RIGHT, TOP, Button, Frame, Label, Menu, Str
 from tkinter import filedialog
 from tkinter import ttk
 
-from train_app.controller import MainController
-from train_app.models import Page, SearchCriteria, TrainRecord
+from src.controller import MainController
+from src.models import Page, SearchCriteria, TrainRecord
 
 DATETIME_FMT = "%Y-%m-%d %H:%M"
 DATE_FMT = "%Y-%m-%d"
