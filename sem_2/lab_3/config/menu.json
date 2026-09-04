@@ -1,0 +1,16 @@
+{
+  "items": [
+    {"id": "start", "label": "Начать игру"},
+    {"id": "scores", "label": "Таблица рекордов"},
+    {"id": "help", "label": "Справка"},
+    {"id": "exit", "label": "Выход"}
+  ],
+  "title": "PONG",
+  "subtitle": "Классическая аркада",
+  "font_size_title": 72,
+  "font_size_item": 36,
+  "font_size_hint": 22,
+  "selected_color": [255, 220, 80],
+  "normal_color": [200, 200, 210],
+  "hint": "↑ ↓ — выбор, Enter — подтвердить, Esc — назад"
+}

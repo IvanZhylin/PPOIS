@@ -1,0 +1,47 @@
+{
+  "display": {
+    "width": 1920,
+    "height": 1080,
+    "title": "Pong",
+    "fps": 60,
+    "background_color": [15, 15, 35]
+  },
+  "court": {
+    "margin": 40,
+    "center_line_dash": 20,
+    "center_line_gap": 15
+  },
+  "ball": {
+    "radius": 10,
+    "speed_initial": 320,
+    "speed_max": 520,
+    "speed_increase_on_paddle": 25,
+    "color": [240, 240, 255],
+    "trail_length": 8,
+    "trail_fade": true
+  },
+  "paddle": {
+    "width": 14,
+    "height": 100,
+    "speed": 420,
+    "color_player": [80, 200, 120],
+    "color_ai": [220, 90, 90],
+    "margin_from_edge": 24
+  },
+  "ai": {
+    "reaction_delay": 0.08,
+    "max_speed_factor": 0.92
+  },
+  "rules": {
+    "points_to_win": 11,
+    "win_by_two": true,
+    "serve_delay_ms": 1200,
+    "pause_after_point_ms": 800
+  },
+  "animations": {
+    "goal_explosion_particles": 24,
+    "goal_explosion_duration_ms": 600,
+    "paddle_hit_flash_ms": 120,
+    "score_popup_duration_ms": 900
+  }
+}

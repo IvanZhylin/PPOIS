@@ -1,0 +1,2 @@
+# pygame-ce: корректная сборка с mixer на Arch Linux / Python 3.14
+pygame-ce>=2.5.0

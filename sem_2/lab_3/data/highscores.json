@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {"name": "CPU", "score": 8, "date": "2020-01-01"},
+    {"name": "ACE", "score": 6, "date": "2020-02-14"},
+    {"name": "PRO", "score": 4, "date": "2020-03-20"},
+    {"name": "NEW", "score": 2, "date": "2020-04-01"},
+    {"name": "BOT", "score": 1, "date": "2020-05-10"}
+  ],
+  "max_entries": 10
+}

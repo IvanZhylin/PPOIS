@@ -1,0 +1,5 @@
+.venv/
+assets/sounds/_ambient_loop.wav
+__pycache__/
+*.pyc
+.pytest_cache/

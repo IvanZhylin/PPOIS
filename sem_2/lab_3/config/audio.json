@@ -1,0 +1,16 @@
+{
+  "master_volume": 0.7,
+  "music_volume": 0.4,
+  "sfx_volume": 0.8,
+  "music_enabled": true,
+  "sfx_enabled": true,
+  "files": {
+    "music": "assets/sounds/music.ogg",
+    "paddle_hit": "assets/sounds/paddle_hit.wav",
+    "wall_hit": "assets/sounds/wall_hit.wav",
+    "score": "assets/sounds/score.wav",
+    "menu_select": "assets/sounds/menu_select.wav",
+    "game_over": "assets/sounds/game_over.wav"
+  },
+  "procedural_fallback": true
+}
